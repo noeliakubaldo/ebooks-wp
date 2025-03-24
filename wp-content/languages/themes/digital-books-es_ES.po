@@ -1,0 +1,830 @@
+# Translation of Themes - Digital Books in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Digital Books package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-06-29 11:18:20+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Digital Books\n"
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Digital Books"
+msgstr "Digital Books"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Digital Books is a perfect theme for book store, education, author, selling ebooks, PDFs online, journalists, editors, publishers, course providers, online book stores, literature, library, comic book store, copywriter, journal, publisher, story, caters education, teachers, book portfolio, blogs about readers and book lovers, institutes, bookstore, book keeper, comic-con, comic subscription, marvel avengers, training academy, coaching centre, LMS, guidance, counselling centre, e-learning, kindergartens, playschools, book landing, book-storage, book series, copywriter and primary school websites. The theme has an eye-catching, sophisticated and modern design that your visitors will surely like.It has many options for customization and personalization to get you exactly the website you like. It is SEO-friendly theme that will help your website rank soon on major search engines like Google. It is implemented on bootstrap framework. You have the option to include shortcodes that will improve the functionality of your website. Also, it is a translation-ready theme that supports many local and international languages with RTL layout. The theme has faster page load time and optimized codes. The design is responsive so it can be viewed on any device. You can link all your social media pages to give credibility to your work."
+msgstr "Digital Books es un tema perfecto para librería, educación, autor, venta de ebooks, PDFs online, periodistas, editores, proveedores de cursos, librerías online, literatura, biblioteca, tienda de cómics, redactor publicitario, revista, editor, historia, educación de caters, profesores, portafolio de libros, blogs de lectores y amantes de los libros, institutos, librerías, librerías, comic-con, suscripción a cómics, vengadores de marvel, academia de formación, centro de coaching, LMS, orientación, centro de asesoramiento, e-learning, guarderías, ludotecas, book landing, book-storage, series de libros, sitios web de redactores y escuelas primarias. El tema tiene un diseño llamativo, sofisticado y moderno que seguramente gustará a tus visitantes.Tiene muchas opciones de personalización y customización para que consigas exactamente el sitio web que te gusta. Es un tema SEO-friendly que ayudará a tu sitio web a posicionarse pronto en los principales motores de búsqueda como Google. Está construido sobre bootstrap framework. Tienes la opción de incluir shortcodes que mejorarán la funcionalidad de tu sitio web. Además, es un tema listo para la traducción que admite muchos idiomas locales e internacionales con diseño RTL. El tema tiene un tiempo de carga de página más rápido y códigos optimizados. El diseño es adaptable, por lo que puede verse en cualquier dispositivo. Puedes enlazar todas tus páginas de redes sociales para dar credibilidad a tu trabajo."
+
+#: inc/customizer.php:534
+msgid "Post Page Image Border Radius"
+msgstr "Radio de borde de imagen de la página de entradas"
+
+#: inc/customizer.php:471
+msgid "Show / Hide Related product"
+msgstr "Mostrar / ocultar producto relacionado"
+
+#: inc/customizer.php:1334
+msgid "Footer Background Image"
+msgstr "Imagen de fondo de pie de página"
+
+#: inc/customizer.php:1200
+msgid "500px"
+msgstr "500px"
+
+#: inc/customizer.php:1198
+msgid "Add the slider height in px(eg. 500px)."
+msgstr "Añade la altura del carrusel en px(ej. 500px)."
+
+#: inc/customizer.php:1197
+msgid "Slider Height"
+msgstr "Altura del carrusel"
+
+#: comments.php:88 inc/customizer.php:781
+msgid "Leave a Reply"
+msgstr "Deja una respuesta"
+
+#: comments.php:89 inc/customizer.php:795
+msgid "Post Comment"
+msgstr "Publicar comentario"
+
+#: functions.php:707
+msgid "View Demo"
+msgstr "Ver demo"
+
+#: functions.php:704
+msgid "Documentation"
+msgstr "Documentación"
+
+#: inc/customizer.php:793
+msgid "Add Comment Button Text"
+msgstr "Texto del botón de añadir comentario"
+
+#: inc/customizer.php:779
+msgid "Add Comment Title"
+msgstr "Título de añadir comentario"
+
+#: functions.php:703
+msgid "Get started"
+msgstr "Primeros pasos"
+
+#: functions.php:701
+msgid "Get Started With Theme By Clicking On Getting Started."
+msgstr "Comienza con el tema haciendo clic en «Primeros pasos»."
+
+#: functions.php:700
+msgid "Thank You For Choosing "
+msgstr "Gracias por elegir "
+
+#: inc/customizer.php:413
+msgid "Left Sidebar"
+msgstr "Barra lateral izquierda"
+
+#: inc/customizer.php:414
+msgid "Right Sidebar"
+msgstr "Barra lateral derecha"
+
+#: inc/customizer.php:1151 inc/customizer.php:1174
+msgid "Slider Image Opacity"
+msgstr "Opacidad de imagen del carrusel"
+
+#: inc/customizer.php:398
+msgid "Hide Shop Page Sidebar"
+msgstr "Ocultar barra lateral de la página de tienda"
+
+#: functions.php:128 inc/customizer.php:410
+msgid "Woocommerce Shop Page Sidebar"
+msgstr "Barra lateral de la página de tienda de WooCommerce"
+
+#: inc/customizer.php:746
+msgid "Check this box to enable post category and tags on single post."
+msgstr "Marca esta casilla para activar la categoría y las etiquetas las entradas individuales."
+
+#: inc/customizer.php:605
+msgid "Check this box to enable category and tags on post page."
+msgstr "Marca esta casilla para activar la categoría y las etiquetas en la página de entradas."
+
+#: inc/customizer.php:603
+msgid "Enable Post Page Category and Tags"
+msgstr "Habilitar categoría y etiquetas de página de entradas"
+
+#: inc/customizer.php:744
+msgid "Enable Single Post Category And Tags"
+msgstr "Activar categoría y etiquetas en entradas individuales"
+
+#: inc/customizer.php:815
+msgid "Page Settings"
+msgstr "Ajustes de página"
+
+#: inc/customizer.php:838
+msgid "Check this box to enable page thumbnail on single page."
+msgstr "Marca esta casilla para activar la miniatura de página en páginas individuales."
+
+#: inc/customizer.php:836
+msgid "Enable Single Page Thumbnail"
+msgstr "Activar miniatura de página individual"
+
+#: inc/customizer.php:827
+msgid "Check this box to enable title on single page."
+msgstr "Marca esta casilla para activar el título en página individual."
+
+#: inc/customizer.php:825
+msgid "Enable Single Page Title"
+msgstr "Activar título de página individual"
+
+#: inc/customizer.php:525
+msgid "Check this box to enable thumbnail on post page."
+msgstr "Marca esta casilla para activar la miniatura en la página de entradas."
+
+#: inc/customizer.php:523
+msgid "Enable Post Page Thumbnail"
+msgstr "Activar la miniatura de la página de entradas"
+
+#: inc/customizer.php:514
+msgid "Check this box to enable meta on post page."
+msgstr "Marca esta casilla para activar meta en la página de la entradas."
+
+#: inc/customizer.php:512
+msgid "Enable Post Page Meta"
+msgstr "Activar meta de las entradas"
+
+#: inc/customizer.php:503
+msgid "Check this box to enable title on post page."
+msgstr "Marca esta casilla para activar el título en la página de entradas."
+
+#: inc/customizer.php:501
+msgid "Enable Post Page Title"
+msgstr "Activar el título de la página de entradas"
+
+#: inc/customizer.php:312 inc/customizer.php:444 inc/customizer.php:1362
+#: inc/customizer.php:1378 inc/customizer.php:1413
+msgid "Left"
+msgstr "Izquierda"
+
+#: inc/customizer.php:311 inc/customizer.php:443 inc/customizer.php:1364
+#: inc/customizer.php:1380 inc/customizer.php:1415
+msgid "Right"
+msgstr "Derecha"
+
+#: inc/customizer.php:1390
+msgid "Show / Hide Copyright"
+msgstr "Mostrar / ocultar copyright"
+
+#: inc/customizer.php:313 inc/customizer.php:445 inc/customizer.php:1363
+#: inc/customizer.php:1379 inc/customizer.php:1414
+msgid "Center"
+msgstr "Centrar"
+
+#: inc/customizer.php:724
+msgid "Check this box to enable title on single post."
+msgstr "Marca esta casilla para activar el título en entradas individuales."
+
+#: inc/customizer.php:722
+msgid "Enable Single Post Title"
+msgstr "Activar título de entrada individual"
+
+#: inc/customizer.php:713
+msgid "Check this box to enable single post meta such as post date, author, category, comment etc."
+msgstr "Marca esta casilla para activar meta de entradas individuales, como fecha de entrada, autor, categoría, comentarios, etc."
+
+#: inc/customizer.php:711
+msgid "Enable Single Post Meta"
+msgstr "Activar meta de entradas individuales"
+
+#: inc/customizer.php:670
+msgid "Check this box to enable post thumbnail on single post."
+msgstr "Marca esta casilla para activar la miniatura de entrada en entradas individuales."
+
+#: inc/customizer.php:668
+msgid "Enable Single Post Thumbnail"
+msgstr "Activar miniatura en entradas individuales"
+
+#: inc/customizer.php:491
+msgid "Post Settings"
+msgstr "Ajustes de entradas"
+
+#: inc/customizer.php:372
+msgid "Product per row"
+msgstr "Productos por fila"
+
+#: inc/customizer.php:387
+msgid "Product per page"
+msgstr "Productos por página"
+
+#: inc/customizer.php:186 inc/customizer.php:484 inc/customizer.php:808
+#: inc/customizer.php:848 inc/customizer.php:886 inc/customizer.php:1032
+#: inc/customizer.php:1213 inc/customizer.php:1299 inc/customizer.php:1435
+msgid "Customizer Options"
+msgstr "Opciones del personalizador"
+
+#: inc/customizer.php:17
+msgid "Buy Digital Books Pro"
+msgstr "Comprar Digital Books Pro"
+
+#: inc/customizer.php:94
+msgid "Logo Width"
+msgstr "Ancho del logo"
+
+#: inc/customizer.php:1049
+msgid "Enable Disable Slider"
+msgstr "Activar / desactivar carrusel"
+
+#: inc/customizer.php:1229
+msgid "Enable Disable Product"
+msgstr "Activar / desactivar producto"
+
+#: inc/customizer.php:1060
+msgid "On Of Slider Loop"
+msgstr "Activado en el bucle del carrusel"
+
+#: inc/customizer.php:901
+msgid "Show Social Icon"
+msgstr "Mostrar icono social"
+
+#: inc/customizer.php:296
+msgid "Show Theme Scroll To Top"
+msgstr "Mostrar el «Volver arriba» del tema"
+
+#: inc/customizer.php:1011
+msgid "Select font awesome icons <a target=\"_blank\" href=\"https://fontawesome.com/v5/search?m=free\">Click Here</a> for select icon. for eg:-fab fa-pinterest-p"
+msgstr "Selecciona un icono de Font Awesome <a target=\"_blank\" href=\"https://fontawesome.com/v5/search?m=free\">Haz clic aquí</a> para seleccionar el icono. Por ejemplo:-fab fa-pinterest-p"
+
+#: inc/customizer.php:988
+msgid "Select font awesome icons <a target=\"_blank\" href=\"https://fontawesome.com/v5/search?m=free\">Click Here</a> for select icon. for eg:-fab fa-linkedin-in"
+msgstr "Selecciona un icono de Font Awesome <a target=\"_blank\" href=\"https://fontawesome.com/v5/search?m=free\">Haz clic aquí</a> para seleccionar el icono. Por ejemplo:-fab fa-linkedin-in"
+
+#: inc/customizer.php:983
+msgid "Add Linkedin Icon"
+msgstr "Añadir icono de Linkedin"
+
+#: inc/customizer.php:964
+msgid "Select font awesome icons <a target=\"_blank\" href=\"https://fontawesome.com/v5/search?m=free\">Click Here</a> for select icon. for eg:-fab fa-instagram"
+msgstr "Selecciona un icono de Font Awesome <a target=\"_blank\" href=\"https://fontawesome.com/v5/search?m=free\">Haz clic aquí</a> para seleccionar el icono. Por ejemplo:-fab fa-instagram"
+
+#: inc/customizer.php:959
+msgid "Add Intagram Icon"
+msgstr "Añadir icono de Instagram"
+
+#: inc/customizer.php:940
+msgid "Select font awesome icons <a target=\"_blank\" href=\"https://fontawesome.com/v5/search?m=free\">Click Here</a> for select icon. for eg:-fab fa-twitter"
+msgstr "Selecciona un icono de Font Awesome <a target=\"_blank\" href=\"https://fontawesome.com/v5/search?m=free\">Haz clic aquí</a> para seleccionar el icono. Por ejemplo:-fab fa-twitter"
+
+#: inc/customizer.php:935
+msgid "Add Twitter Icon"
+msgstr "Añadir icono de Twitter"
+
+#: inc/customizer.php:917
+msgid "Select font awesome icons <a target=\"_blank\" href=\"https://fontawesome.com/v5/search?m=free\">Click Here</a> for select icon. for eg:-fab fa-facebook-f"
+msgstr "Selecciona un icono de Font Awesome <a target=\"_blank\" href=\"https://fontawesome.com/v5/search?m=free\">Haz clic aquí</a> para seleccionar el icono. Por ejemplo:-fab fa-facebook-f"
+
+#: inc/customizer.php:912
+msgid "Add Facebook Icon"
+msgstr "Añadir icono de Facebook"
+
+#: inc/customizer.php:1006
+msgid "Add Pinterest Icon"
+msgstr "Añadir icono de Pinterest"
+
+#: inc/customizer.php:135
+msgid "Enable Disable Tagline"
+msgstr "Activar / desactivar descripción corta"
+
+#: inc/customizer.php:104
+msgid "Enable Disable Title"
+msgstr "Activar / desactivar título"
+
+#: functions.php:148
+msgid "Footer Column 2"
+msgstr "Columna 2 del pie de página"
+
+#: functions.php:158
+msgid "Footer Column 3"
+msgstr "Columna 3 del pie de página"
+
+#: functions.php:138
+msgid "Footer Column 1"
+msgstr "Columna 1 del pie de página"
+
+#: inc/customizer.php:874
+msgid "Second Color Option"
+msgstr "Opción del segundo color"
+
+#: inc/customizer.php:864
+msgid "First Color Option"
+msgstr "Opción del primer color"
+
+#: functions.php:477
+msgid "Theme Options"
+msgstr "Opciones del tema"
+
+#: functions.php:477
+msgid " Theme Options"
+msgstr " Opciones del tema"
+
+#: functions.php:593
+msgid "Easy Google Fonts"
+msgstr "Easy Google Fonts"
+
+#: functions.php:555
+msgid "Premium Version"
+msgstr "Versión Premium"
+
+#: functions.php:545
+msgid "View Theme Demo"
+msgstr "Ver demo del tema"
+
+#: functions.php:577
+msgid "Premium Support"
+msgstr "Soporte premium"
+
+#: functions.php:513
+msgid "Get Premium"
+msgstr "Hazte Premium"
+
+#: functions.php:561
+msgid "Header Background Color"
+msgstr "Color de fondo de la cabecera"
+
+#: functions.php:501 functions.php:504
+msgid "Contact Support"
+msgstr "Contactar con soporte"
+
+#: functions.php:457
+msgid "https://wordpress.org/support/theme/digital-books/reviews/#new-post"
+msgstr "https://wordpress.org/support/theme/digital-books/reviews/#new-post"
+
+#: functions.php:454
+msgid "https://wordpress.org/support/theme/digital-books"
+msgstr "https://wordpress.org/support/theme/digital-books"
+
+#: inc/customizer.php:263
+msgid "Preloader Second Dot Color"
+msgstr "Color del segundo punto del precargador"
+
+#: inc/customizer.php:252
+msgid "Preloader First Dot Color"
+msgstr "Color del primer punto del precargador"
+
+#: functions.php:676
+msgid "Go Premium"
+msgstr "Hazte premium"
+
+#: functions.php:668
+msgid "Importable Demo Content\t"
+msgstr "Contenido de ejemplo importable\t"
+
+#: functions.php:663
+msgid "Customize Background Color"
+msgstr "Personalizar el color de fondo"
+
+#: functions.php:658
+msgid "Customize Sidebar Color"
+msgstr "Personalizar el color de la barra lateral"
+
+#: functions.php:653
+msgid "Customize Footer Color"
+msgstr "Personalizar el color del pie de página"
+
+#: functions.php:648
+msgid "Customize Blog Feed Color"
+msgstr "Personalizar el color del feed del blog"
+
+#: functions.php:643
+msgid "Customize Post/Page Color"
+msgstr "Personalizar el color de las entradas y páginas"
+
+#: functions.php:638
+msgid "Customize Navigation Color"
+msgstr "Personalizar el color de la navegación"
+
+#: functions.php:633
+msgid "Customize Upper Widgets Colors"
+msgstr "Personalizar los colores de los widgets superiores"
+
+#: functions.php:628
+msgid "Replace Copyright Text"
+msgstr "Reemplazar el texto de copyright"
+
+#: functions.php:623
+msgid "Only Show Upper Widgets On Front Page"
+msgstr "Mostrar los widgets superiores solo en la página de inicio"
+
+#: functions.php:618
+msgid "Full Width (Hide Sidebar)"
+msgstr "Ancho completo (ocultar la barra lateral)"
+
+#: functions.php:613
+msgid "Custom Text On Header Image"
+msgstr "Texto personalizado en la imagen de la cabecera"
+
+#: functions.php:608
+msgid "Show Header Everywhere"
+msgstr "Mostrar la cabecera en todas partes"
+
+#: functions.php:603
+msgid "Only Show Header Image On Front Page"
+msgstr "Mostrar la imagen de cabecera solo en la página de inicio"
+
+#: functions.php:598
+msgid "Pagespeed Plugin"
+msgstr "Plugin Pagespeed"
+
+#: functions.php:587
+msgid "Recent Posts Widget"
+msgstr "Widget de entradas recientes"
+
+#: functions.php:582
+msgid "Fully SEO Optimized"
+msgstr "Completamente optimizado para SEO"
+
+#: functions.php:571
+msgid "Hide Logo Text"
+msgstr "Ocultar el texto del logotipo"
+
+#: functions.php:566
+msgid "Custom Navigation Logo Or Text"
+msgstr "Logotipo o texto de navegación personalizado"
+
+#: functions.php:554
+msgid "Basic Version"
+msgstr "Versión básica"
+
+#: functions.php:553
+msgid "Theme Feature"
+msgstr "Características del tema"
+
+#: functions.php:542
+msgid "Checkout Documentation"
+msgstr "Comprobar la documentación"
+
+#: functions.php:539
+msgid "Free Vs Premium"
+msgstr "Gratis vs Premium"
+
+#: functions.php:519 functions.php:522
+msgid "Review"
+msgstr "Reseña"
+
+#: functions.php:511
+msgid "Our premium theme comes with extended features like demo content import , responsive layouts etc."
+msgstr "Nuestro tema premium viene con características extendidas como la importación de contenido de demostración, diseños adaptables, etc."
+
+#: functions.php:510
+msgid "Checkout Premium"
+msgstr "Comprobar premium"
+
+#: functions.php:487
+msgid "Welcome To "
+msgstr "Bienvenido a "
+
+#: functions.php:520
+msgid "If You love Digital Books theme then we would appreciate your review about our theme."
+msgstr "Si te gusta el tema Digital Books, te agradeceríamos que nos dejaras una reseña sobre él."
+
+#: functions.php:502
+msgid "Thank you for trying Digital Books , feel free to contact us for any support regarding our theme."
+msgstr "Gracias por probar Digital Books, no dudes en ponerte en contacto con nosotros para cualquier ayuda relacionada con nuestro tema."
+
+#: functions.php:466
+msgid "https://demo.themagnifico.net/eard/wathiqa/book-store-pro-doc/"
+msgstr "https://demo.themagnifico.net/eard/wathiqa/book-store-pro-doc/"
+
+#: functions.php:460
+msgid "https://demo.themagnifico.net/digital-books/"
+msgstr "https://demo.themagnifico.net/digital-books/"
+
+#: functions.php:463
+msgid "https://www.themagnifico.net/products/book-store-wordpress-theme"
+msgstr "https://www.themagnifico.net/products/book-store-wordpress-theme"
+
+#: inc/customizer.php:193
+msgid "General Settings"
+msgstr "Ajustes generales"
+
+#: inc/customizer.php:242
+msgid "Preloader Background Color"
+msgstr "Color de fondo del precargador"
+
+#: inc/customizer.php:217
+msgid "Show Theme Preloader"
+msgstr "Mostrar el precargador del tema"
+
+#: inc/customizer.php:285
+msgid "Show Sticky Header"
+msgstr "Mostrar cabecera fija"
+
+#: inc/customizer.php:855
+msgid "Theme Color"
+msgstr "Color del tema"
+
+#: footer.php:104
+msgid "TOP"
+msgstr "ARRIBA"
+
+#. Template Name of the theme
+msgid "Full Width Template"
+msgstr "Plantilla de ancho completo"
+
+#. translators: 1: Theme name,
+#: footer.php:87
+msgid " %1$s "
+msgstr " %1$s "
+
+#. translators: 1: Theme author.
+#: footer.php:92
+msgid "by %1$s."
+msgstr "de %1$s."
+
+#: inc/customizer.php:1273
+msgid "Number"
+msgstr "Número"
+
+#: template-parts/topheader/topheader.php:34
+msgid "Login / Register"
+msgstr "Acceder / Registro"
+
+#: inc/customizer.php:996
+msgid "Linkedin Link"
+msgstr "Enlace a Linkedin"
+
+#: inc/customizer.php:1019
+msgid "Pinterest Link"
+msgstr "Enlace a Pinterest"
+
+#: template-parts/topheader/topheader.php:31
+msgid "My Account"
+msgstr "Mi cuenta"
+
+#: page-template/home-template.php:84
+msgid "Reviews"
+msgstr "Reseñas"
+
+#: inc/customizer.php:948
+msgid "Twitter Link"
+msgstr "Enlace a Twitter"
+
+#: inc/customizer.php:925
+msgid "Facebook Link"
+msgstr "Enlace a Facebook"
+
+#. Template Name of the theme
+msgid "Left sidebar"
+msgstr "Barra lateral izquierda"
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr "Debes estar conectado para para poder finalizar la compra."
+
+#: woocommerce/checkout/form-checkout.php:51
+msgid "Your order"
+msgstr "Tu pedido"
+
+#: inc/customizer.php:1284
+msgid "Text"
+msgstr "Texto"
+
+#: inc/customizer.php:893
+msgid "Social Links"
+msgstr "Enlaces sociales"
+
+#: inc/customizer.php:1040
+msgid "Slider Settings"
+msgstr "Ajustes del carrusel"
+
+#: template-parts/navigation/navigation-top.php:14
+msgid "Top Menu"
+msgstr "Menú superior"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-single.php:46
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Seguir leyendo<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#. translators: %s: post title
+#: comments.php:32
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Un comentario sobre «%s»"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-page.php:44
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Editar <span class=\"screen-reader-text\">%s</span>"
+
+#. translators: %s: post title
+#: inc/template-tags.php:41
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Deja un comentario<span class=\"screen-reader-text\"> en %s</span>"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:69
+msgid "Edit %s"
+msgstr "Editar %s"
+
+#: functions.php:54
+msgid "Footer Menu"
+msgstr "Menú del pie de página"
+
+#. translators: %s: CMS name, i.e. WordPress.
+#: footer.php:79
+msgid "Proudly powered by %s"
+msgstr "Funciona gracias a %s"
+
+#: functions.php:120
+msgid "Add widgets here."
+msgstr "Añade widgets aquí."
+
+#: inc/template-tags.php:168
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: functions.php:53
+msgid "Primary"
+msgstr "Principal"
+
+#: comments.php:55 comments.php:69
+msgid "Older Comments"
+msgstr "Comentarios anteriores"
+
+#: comments.php:56 comments.php:70
+msgid "Newer Comments"
+msgstr "Comentarios más recientes"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Parece que aquí no hay nada. ¿por qué no pruebas uno de estos enlaces o la búsqueda?"
+
+#: inc/template-tags.php:194
+msgid "Your comment is awaiting moderation."
+msgstr "Tu comentario está pendiente de moderación."
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "¡Vaya! No se puede encontrar esa página."
+
+#: functions.php:118
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: comments.php:53 comments.php:67
+msgid "Comment navigation"
+msgstr "Navegación de comentarios"
+
+#: header.php:41
+msgid "Skip to content"
+msgstr "Saltar al contenido"
+
+#: inc/template-tags.php:169 inc/template-tags.php:189
+msgid "Edit"
+msgstr "Editar"
+
+#. translators: %s: search query.
+#: search.php:24
+msgid "Search Results for: %s"
+msgstr "Resultados de la búsqueda: %s"
+
+#: template-parts/content-none.php:37
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo sentimos, pero nada coincide con tus términos de búsqueda. Por favor, prueba de nuevo con algunas palabras diferentes."
+
+#: template-parts/content-none.php:44
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que no encontramos lo que estás buscando. Puede que una búsqueda te ayude."
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:53 inc/template-tags.php:59
+msgid ", "
+msgstr ", "
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "No se ha encontrado nada"
+
+#: comments.php:80
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: template-parts/content-page.php:31 template-parts/content-single.php:57
+#: template-parts/content.php:46
+msgid "Pages:"
+msgstr "Páginas:"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Preparado para publicar tu primera entrada? <a href=\"%1$s\">Empieza aquí</a>."
+
+#: searchform.php:14
+msgctxt "submit button"
+msgid "Search"
+msgstr "Buscar"
+
+#: searchform.php:12
+msgctxt "label"
+msgid "Search for:"
+msgstr "Buscar:"
+
+#: searchform.php:12
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Buscar &hellip;"
+
+#. Template Name of the theme
+msgid "Home Template"
+msgstr "Plantilla de la página de inicio"
+
+#. translators: %s: post date
+#. translators: %s: post author
+#: inc/template-tags.php:26 inc/template-tags.php:32
+msgid "<span class=\"screen-reader-text\">Posted on</span> %s"
+msgstr "<span class=\"screen-reader-text\">Publicado </span> %s"
+
+#: inc/customizer.php:1306
+msgid "Footer"
+msgstr "Pie de página"
+
+#: inc/customizer.php:1106
+msgid "Select Slide Page"
+msgstr "Seleccionar página de diapositiva"
+
+#: inc/customizer.php:30
+msgid "GET PREMIUM"
+msgstr "OBTENER PREMIUM"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:37
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s comentario sobre «%2$s»"
+msgstr[1] "%1$s comentarios sobre «%2$s»"
+
+#. translators: %s: Tagged
+#: inc/template-tags.php:62
+msgid "Tagged %1$s"
+msgstr "Etiquetado como %1$s"
+
+#. translators: 1: number of Post
+#: inc/template-tags.php:55
+msgid "Posted in %1$s"
+msgstr "Publicado en %1$s"
+
+#: inc/customizer.php:972
+msgid "Intagram Link"
+msgstr "Enlace de Instagram"
+
+#: inc/customizer.php:1285
+msgid "Add Counter Text"
+msgstr "Añadir texto del contador"
+
+#: inc/customizer.php:1274
+msgid "Add Counter Number"
+msgstr "Añadir número del contador"
+
+#: inc/customizer.php:1263
+msgid "Select Product Category"
+msgstr "Selecciona una categoría de producto"
+
+#: inc/customizer.php:1221
+msgid "Here you have to select product category which will display perticular featured product in the home page."
+msgstr "Aquí tienes que seleccionar la categoría de producto que mostrará el producto destacado en particular en la página de inicio."
+
+#: inc/customizer.php:1220
+msgid "Featured Product"
+msgstr "Producto destacado"
+
+#: inc/customizer.php:1041
+msgid "Here you have to add 3 different pages in below dropdown. Note: Image Dimensions 1400 x 550 px"
+msgstr "Aquí tienes que añadir 3 páginas diferentes en el desplegable de abajo. Nota: Dimensiones de la imagen 1400 x 550 px"
+
+#: inc/customizer.php:14
+msgid "Digital Books Pro"
+msgstr "Digital Books Pro"
+
+#: template-parts/topheader/mainheader.php:58
+msgid "shopping cart"
+msgstr "carrito de la compra"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://www.themagnifico.net/"
+msgstr "https://www.themagnifico.net/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "TheMagnifico52"
+msgstr "TheMagnifico52"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://www.themagnifico.net/products/free-books-wordpress-theme"
+msgstr "https://www.themagnifico.net/products/free-books-wordpress-theme"

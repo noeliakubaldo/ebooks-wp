@@ -1,0 +1,58 @@
+<?php
+/**
+ * Template part for displaying posts
+ *
+ * @link https://developer.wordpress.org/themes/basics/template-hierarchy/
+ *
+ * @package Digital Books
+ */
+
+$digital_books_post_page_title =  get_theme_mod( 'digital_books_post_page_title', 1 );
+$digital_books_post_page_meta =  get_theme_mod( 'digital_books_post_page_meta', 1 );
+$digital_books_post_page_thumb = get_theme_mod( 'digital_books_post_page_thumb', 1 );
+$digital_books_post_page_cat = get_theme_mod( 'digital_books_post_page_cat', 1 );
+$digital_books_post_page_content =  get_theme_mod( 'digital_books_post_page_content', 1 );
+?>
+
+<div class="<?php if(get_theme_mod('digital_books_blog_post_columns','Two') == 'Two'){?>col-lg-6 col-md-6<?php } elseif(get_theme_mod('digital_books_blog_post_columns','Two') == 'Three'){?>col-lg-4 col-md-6<?php }?>">
+    <article id="post-<?php the_ID(); ?>" <?php post_class('article-box'); ?>>
+        <header class="entry-header">
+            <?php if ($digital_books_post_page_title == 1 ) {?>
+                <?php the_title('<h3 class="entry-title"><a href="' . esc_url( get_permalink() ) . '" rel="bookmark">', '</a></h3>');?>
+                <hr>
+            <?php }?> 
+            <?php if ('post' === get_post_type()) : ?>
+                <?php if ($digital_books_post_page_meta == 1 ) {?>
+                    <div class="entry-meta">
+                        <?php
+                        digital_books_posted_on();
+                        ?>
+                    </div>
+                <?php }?>
+            <?php endif; ?>
+        </header>
+        <?php if ($digital_books_post_page_thumb == 1 ) {?>
+            <?php if(has_post_thumbnail()){
+            the_post_thumbnail();
+            } else{?>
+            <div class="post-img"><img src="<?php echo esc_url(get_template_directory_uri()); ?>/assets/img/slider.png" alt="" /></div>
+          <?php } ?>
+        <?php }?> 
+        <?php if ($digital_books_post_page_content == 1 ) {?>
+            <div class="entry-summary">
+                <p><?php echo wp_trim_words( get_the_content(), esc_attr(get_theme_mod('digital_books_post_page_excerpt_length', 30)) ); ?><?php echo esc_html(get_theme_mod('digital_books_post_page_excerpt_suffix','[...]')); ?></p>
+                <?php
+                    wp_link_pages(array(
+                        'before' => '<div class="page-links">' . esc_html__('Pages:', 'digital-books'),
+                        'after' => '</div>',
+                    ));
+                ?>
+            </div>
+        <?php }?>
+        <?php if ($digital_books_post_page_cat == 1 ) {?>
+            <footer class="entry-footer">
+                <?php digital_books_entry_footer(); ?>
+            </footer>
+        <?php }?> 
+    </article>
+</div>

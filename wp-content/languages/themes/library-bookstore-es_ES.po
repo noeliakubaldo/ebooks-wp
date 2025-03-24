@@ -1,0 +1,186 @@
+# Translation of Themes - Library Bookstore in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Library Bookstore package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-06-29 11:13:48+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Library Bookstore\n"
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Library Bookstore"
+msgstr "Library Bookstore"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Library Bookstore WordPress Theme is designed especially for libraries, bookstores, and other literary-focused websites. It can be used to create an online presence, an online store, or just a literary-focused blog website. The theme comes with a clean and modern design, making it easy for users to navigate and find the information they need. Library Bookstore WordPress Theme comes with a responsive design, which ensures that the website looks great and functions seamlessly on any device. Whether users are browsing on a desktop computer, tablet, or smartphone, they will be able to access all of the website's features and content without any issues. In terms of features, the Library Bookstore WordPress Theme includes a range of features that are ideal for libraries and bookstores. The theme includes a built-in catalog system that allows users to easily search for and locate books in the library's collection. Users can search by author, title, subject, and more, making it easy to find the books they're looking for. In addition to these features, the Library Bookstore theme also includes a blog section where users can publish news, updates, and other relevant content. The theme is fully compatible with WordPress's blogging platform, making it easy to create and publish high-quality content that engages users and drives traffic to the website. The theme is also translation ready and helps in translating the text on your website to multiple local and international languages."
+msgstr "El tema para WordPress Library Bookstore está diseñado especialmente para bibliotecas, librerías y otros sitios web centrados en la literatura. Se puede utilizar para crear una presencia en línea, una tienda online o simplemente un sitio web con un blog centrado en la literatura. El tema tiene un diseño limpio y moderno, que facilita a los usuarios la navegación y la búsqueda de la información que necesitan. Library Bookstore tiene un diseño adaptable, que garantiza que el sitio web tenga un aspecto estupendo y funcione a la perfección en cualquier dispositivo. Tanto si los usuarios navegan desde un ordenador de sobremesa, una tableta o un smartphone, podrán acceder a todas las funciones y contenidos del sitio web sin ningún problema. En cuanto a las funciones, el tema incluye una serie de características ideales para bibliotecas y librerías. El tema incluye un sistema de catálogo integrado que permite a los usuarios buscar y localizar fácilmente libros en la colección de la biblioteca. Los usuarios pueden buscar por autor, título, tema y más, lo que facilita encontrar los libros que buscan. Además de estas funciones, el tema Librería de la biblioteca también incluye una sección de blog donde los usuarios pueden publicar noticias, actualizaciones y otros contenidos relevantes. El tema es totalmente compatible con la plataforma de blogs de WordPress, lo que facilita la creación y publicación de contenido de alta calidad que atraiga a los usuarios y dirija el tráfico al sitio web. El tema también está preparado para la traducción y ayuda a traducir el texto de tu sitio web a varios idiomas locales e internacionales."
+
+#: functions.php:35
+msgid "https://demo.themagnifico.net/eard/wathiqa/library-bookstore-free-doc/"
+msgstr "https://demo.themagnifico.net/eard/wathiqa/library-bookstore-free-doc/"
+
+#: comments.php:89
+msgid "Post Comment"
+msgstr "Publicar comentario"
+
+#: comments.php:88
+msgid "Leave a Reply"
+msgstr "Deja una respuesta"
+
+#: functions.php:148
+msgid "Customizer Options"
+msgstr "Opciones del personalizador"
+
+#: functions.php:20
+msgid "https://wordpress.org/support/theme/library-bookstore/reviews/#new-post"
+msgstr "https://wordpress.org/support/theme/library-bookstore/reviews/#new-post"
+
+#: functions.php:17
+msgid "https://wordpress.org/support/theme/library-bookstore"
+msgstr "https://wordpress.org/support/theme/library-bookstore"
+
+#: functions.php:32
+msgid "Buy Library Bookstore Pro"
+msgstr "Compra Library Bookstore Pro"
+
+#: functions.php:29
+msgid "https://demo.themagnifico.net/eard/wathiqa/library-bookstore-doc/"
+msgstr "https://demo.themagnifico.net/eard/wathiqa/library-bookstore-doc/"
+
+#: functions.php:23
+msgid "https://demo.themagnifico.net/library-bookstore/"
+msgstr "https://demo.themagnifico.net/library-bookstore/"
+
+#: functions.php:26
+msgid "https://www.themagnifico.net/products/library-wordpress-theme"
+msgstr "https://www.themagnifico.net/products/library-wordpress-theme"
+
+#: template-parts/topheader/topheader.php:32
+msgid "Login / Register"
+msgstr "Acceder / Registro"
+
+#: template-parts/topheader/topheader.php:29
+msgid "My Account"
+msgstr "Mi cuenta"
+
+#: page-template/home-template.php:84
+msgid "Reviews"
+msgstr "Reseñas"
+
+#. Template Name of the theme
+msgid "Home Template"
+msgstr "Plantilla de la página de inicio"
+
+#: functions.php:236
+msgid "Add widgets here."
+msgstr "Añade widgets aquí."
+
+#: functions.php:234
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: functions.php:137
+msgid "Select Product Category"
+msgstr "Selecciona una categoría de producto"
+
+#: functions.php:85
+msgid "Section Title"
+msgstr "Título de la sección"
+
+#: functions.php:78
+msgid "Here you have to select product category which will display perticular latest product in the home page."
+msgstr "Aquí tienes que seleccionar la categoría de producto que mostrará el último producto en particular en la página de inicio."
+
+#: functions.php:77
+msgid "Latest Product"
+msgstr "Último producto"
+
+#: footer.php:104
+msgid "TOP"
+msgstr "ARRIBA"
+
+#. translators: 1: TheMagnifico.
+#: footer.php:92
+msgid "by %1$s."
+msgstr "de %1$s."
+
+#. translators: 1: Library Bookstore WordPress Theme,
+#: footer.php:87
+msgid " %1$s "
+msgstr " %1$s "
+
+#. translators: %s: CMS name, i.e. WordPress.
+#: footer.php:79
+msgid "Proudly powered by %s"
+msgstr "Funciona gracias a %s"
+
+#: comments.php:80
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: comments.php:56 comments.php:70
+msgid "Newer Comments"
+msgstr "Comentarios más recientes"
+
+#: comments.php:55 comments.php:69
+msgid "Older Comments"
+msgstr "Comentarios anteriores"
+
+#: comments.php:53 comments.php:67
+msgid "Comment navigation"
+msgstr "Navegación de comentarios"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:37
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s comentario sobre «%2$s»"
+msgstr[1] "%1$s comentarios sobre «%2$s»"
+
+#. translators: %s: post title
+#: comments.php:32
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Un comentario sobre «%s»"
+
+#: footer.php:76
+msgid "https://wordpress.org/"
+msgstr "https://es.wordpress.org/"
+
+#: functions.php:103
+msgid "Product Count"
+msgstr "Número de productos"
+
+#: functions.php:94
+msgid "Section Sub Title"
+msgstr "Subtítulo de la sección"
+
+#: functions.php:14
+msgid "Library Bookstore Pro"
+msgstr "Library Bookstore Pro"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://www.themagnifico.net/"
+msgstr "https://www.themagnifico.net/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "TheMagnifico52"
+msgstr "TheMagnifico52"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://www.themagnifico.net/products/free-bookstore-wordpress-theme"
+msgstr "https://www.themagnifico.net/products/free-bookstore-wordpress-theme"
