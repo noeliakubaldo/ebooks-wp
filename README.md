@@ -32,3 +32,6 @@ http://localhost/ebooks-wp/
 
 ## 🧪 Datos de prueba
 Puedes importar datos de ejemplo usando herramientas como WP All Import o el importador por defecto de WordPress.
+
+## 💻 Visualización de la página
+https://948250274.facturalo.co/
